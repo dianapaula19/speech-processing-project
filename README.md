@@ -4,7 +4,7 @@ A speech codec built from scratch on **linear prediction**. It compresses 8 kHz,
 (128 kbit/s) to **9.44 kbit/s** (13.6× smaller) using a quantized lattice filter and a
 regular-pulse excitation, in the spirit of the GSM full-rate codec.
 
-Team project for ELEC-E5522 *Speech Processing Project* at Aalto University (spring 2025), made
+Team project for the *Speech Processing Project* course at Aalto University (spring 2025), made
 with Adrián Kálazi (his alternative implementation is on the `alt-impl` branch). Test material:
 20 TIMIT sentences, 10 female and 10 male speakers.
 
